@@ -3,7 +3,7 @@
 ## Hi, I'm Pedro!!! 
 
 - 🔭  I’m currently working on Backend
-- 🌱  I’m currently learning Golang
+- 🌱  I’m currently learning Kotlin
 
  <div>
   <a href="https://github.com/pedrook16">
